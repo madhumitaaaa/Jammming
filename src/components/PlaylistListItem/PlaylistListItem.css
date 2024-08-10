@@ -1,0 +1,8 @@
+.playlistListItem {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .playlistListItem span {
+    font-weight: bold;
+  }
